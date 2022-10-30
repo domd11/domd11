@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @domd11
 - 👀 I’m interested in playing music, **robotics**, computer science, and video games
-- 🌱 I’m currently learning reactjs, nextjs, django, **C/C++, java**
+- 🌱 I’m currently learning reactjs, nextjs, django, **C/C++, python, java**
 - 💞️ I’m looking to collaborate on web development, app development, hackathons
 - 📫 How to reach me dominiquedesertb@gmail.com
 
